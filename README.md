@@ -273,14 +273,18 @@ This Project
 The model was trained using Google Teachable Machine with the following configuration:
 | Parameter | Value |
 |---|---|
-| Epochs | 100 |
-| Batch Size | 16 |
-| Learning Rate | 0.001 |
-| Number of Class | 20 |
-| Minimum Images per Class | 250 |
-| Total Dataset Size | 5000+ Images |
+| **Epochs** | 100 |
+| **Batch Size** | 16 |
+| **Learning Rate** | 0.001 |
+| **Number of Class** | 20 |
+| **Minimum Images per Class** | 250 |
+| **Total Dataset Size** | 5000+ Images |
 
 ---
+Training Settings Screenshot:
+<p align="center">
+  <img src="Screenshots/evaluation/Accuracy per class.png" width="700">
+</p>
 
 ## D. Model Evaluation
 
