@@ -452,8 +452,12 @@ Below are 10 testing screenshots from the Teachable Machine Preview section, eac
 
 ## F. Reflection Questions
 ### 1. How did the number of images per class affect your model's accuracy?
+While too few or unbalanced photos reduce model performance, increasing and balancing the number of images per class increases accuracy.
 ### 2. Which plant species were most commonly misclassified and why?
+Because of their higher picture variance, less balanced training data, or probable visual resemblance to other plants, the most frequently misclassified species were the suicide tree (99%), bittersweet nightshade (98%), and yellow oleander (97%). The most dependable species classifications were those with 100% confidence.
 ### 3. How did changing the epochs, batch size, or learning rate affect the training results?
+The performance of the training improved when the epochs, batch size, and learning rate were meticulously optimized, as raising the number of epochs boosted performance until overfitting took place, smaller batch sizes enhanced generalization but prolonged training time, and a well-adjusted learning rate guaranteed steady and effective learning.
 ### 4. What challenges did you encounter during dataset collection and labeling?
+Class imbalance, where some species had more photographs than others, and changes in lighting, background, and image angles that impacted consistency were among the difficulties faced during dataset collecting and categorization. Another obstacle was finding enough high-quality images for each class. Furthermore, labeling took a lot of time and required strict inspection to prevent misclassification, particularly for plant species that were visually similar. Another significant problem was making sure that the descriptions were accurate and consistent throughout the entire dataset.
 ### 5. If you were to improve your model, what specific changes would you make and why?
-
+To improve the model, I would increase and balance the dataset by collecting more high-quality images for underrepresented classes to reduce bias and improve generalization. I would also apply stronger data augmentation techniques (such as rotation, zoom, and brightness adjustments) to make the model more robust to real-world variations. Additionally, I would fine-tune hyperparameters like learning rate, batch size, and epochs to prevent overfitting and improve convergence. Finally, I would consider using transfer learning with a more advanced pre-trained model to enhance feature extraction and boost overall accuracy.
