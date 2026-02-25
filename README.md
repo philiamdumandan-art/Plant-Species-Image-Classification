@@ -280,6 +280,8 @@ The model was trained using Google Teachable Machine with the following configur
 | Minimum Images per Class | 250 |
 | Total Dataset Size | 5000+ Images |
 
+---
+
 ## D. Model Evaluation
 
 ### Confusion Matrix
