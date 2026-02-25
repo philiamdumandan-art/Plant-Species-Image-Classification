@@ -339,7 +339,7 @@ Learning Rate (0.001): A standard learning rate that allows gradual and stable w
 ### E. Model Testing
 Below are 10 testing screenshots from the Teachable Machine Preview section, each showing the input image, predicted plant class, and confidence score.
 
-### Test 1 - 
+### Test 1 - Autumn crocus
 <p align="center">
   <img src="Screenshots/testing/Test - 1 Autumn crocus.png" width="700">
 </p>
@@ -348,7 +348,7 @@ Below are 10 testing screenshots from the Teachable Machine Preview section, eac
 
 ---
 
-### Test 2 - 
+### Test 2 - Bittersweet nightshade
 <p align="center">
   <img src="Screenshots/testing/Test - 2 bittersweet.png" width="700">
 </p>
@@ -356,11 +356,11 @@ Below are 10 testing screenshots from the Teachable Machine Preview section, eac
   <img src="Screenshots/testing/Test - 2 bittersweet1.png" width="700">
 </p>
 
-**Result:** ✅ Bittersweet nightshade — **100% Confidence**
+**Result:** ✅ Bittersweet nightshade — **98% Confidence**
 
 ---
 
-### Test 3 - 
+### Test 3 - Flame lily
 <p align="center">
   <img src="Screenshots/testing/Test - 3 Flame lily1.png" width="700">
 </p>
@@ -372,7 +372,7 @@ Below are 10 testing screenshots from the Teachable Machine Preview section, eac
 
 ---
 
-### Test 4 - 
+### Test 4 - Jack-in-the-pulpit
 <p align="center">
   <img src="Screenshots/testing/Test - 4 jack-in the pulpit.png" width="700">
 </p>
@@ -381,7 +381,7 @@ Below are 10 testing screenshots from the Teachable Machine Preview section, eac
 
 ---
 
-### Test 5 - 
+### Test 5 - Yellow oleander
 <p align="center">
   <img src="Screenshots/testing/Test - 5 yellow.png" width="700">
 </p>
@@ -393,7 +393,7 @@ Below are 10 testing screenshots from the Teachable Machine Preview section, eac
 
 ---
 
-### Test 6 - 
+### Test 6 - Lantana
 <p align="center">
   <img src="Screenshots/testing/Test - 6 lantana.png" width="700">
 </p>
@@ -402,7 +402,7 @@ Below are 10 testing screenshots from the Teachable Machine Preview section, eac
 
 ---
 
-### Test 7 - 
+### Test 7 - Larkspur
 <p align="center">
   <img src="Screenshots/testing/Test - 7 Larkspur.png" width="700">
 </p>
@@ -414,7 +414,7 @@ Below are 10 testing screenshots from the Teachable Machine Preview section, eac
 
 ---
 
-### Test 8 - 
+### Test 8 - Mountain laurel
 <p align="center">
   <img src="Screenshots/testing/Test - 8 mountain laurel.png" width="700">
 </p>
@@ -423,7 +423,7 @@ Below are 10 testing screenshots from the Teachable Machine Preview section, eac
 
 ---
 
-### Test 9 - 
+### Test 9 - Poison ivy
 <p align="center">
   <img src="Screenshots/testing/Test - 9 poison ivy.png" width="700">
 </p>
@@ -435,7 +435,7 @@ Below are 10 testing screenshots from the Teachable Machine Preview section, eac
 
 ---
 
-### Test 10 - 
+### Test 10 - Suicide tree
 <p align="center">
   <img src="Screenshots/testing/Test - 10 suicide1.png" width="700">
 </p>
