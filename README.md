@@ -270,6 +270,15 @@ This Project
 ---
 
 ## C. Model Training Details
+The model was trained using Google Teachable Machine with the following configuration:
+| Parameter | Value |
+|---|---|
+| Epochs | 100 |
+| Batch Size | 16 |
+| Learning Rate | 0.001 |
+| Number of Class | 20 |
+| Minimum Images per Class | 250 |
+| Total Dataset Size | 5000+ Images |
 
 ## D. Model Evaluation
 
@@ -280,8 +289,17 @@ This Project
 
 ### Accuracy Per Class
 <p align="center">
-  <img src="Screenshots/evaluation/confusion matrix.png" width="700">
+  <img src="Screenshots/evaluation/Accuracy per class.png" width="700">
 </p>
+
+### Overall Model Accuracy
+
+### Accuracy Summary Table
+
+| Class | Accuracy | #Samples |
+|---|---|---|
+|
+
 
 ### E. Model Testing
 
