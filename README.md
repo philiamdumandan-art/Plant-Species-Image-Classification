@@ -332,6 +332,9 @@ Learning Rate (0.001): A standard learning rate that allows gradual and stable w
 | Larkspur | 1.00 | 50 |
 
 ### Overall Model Accuracy
+<p align="center">
+  <img src="Screenshots/evaluation/Accuracy per class.png" width="700">
+</p>
 
 
 ### E. Model Testing
