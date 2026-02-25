@@ -274,6 +274,14 @@ This Project
 ## D. Model Evaluation
 
 ### Confusion Matrix
+<p align="center">
+  <img src="Screenshots/evaluation/confusion matrix.png" width="700">
+</p>
+
+### Accuracy Per Class
+<p align="center">
+  <img src="Screenshots/evaluation/confusion matrix.png" width="700">
+</p>
 
 ### E. Model Testing
 
