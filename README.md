@@ -340,7 +340,111 @@ Learning Rate (0.001): A standard learning rate that allows gradual and stable w
 Below are 10 testing screenshots from the Teachable Machine Preview section, each showing the input image, predicted plant class, and confidence score.
 
 ### Test 1 - 
+<p align="center">
+  <img src="Screenshots/testing/Test - 1 Autumn crocus.png" width="700">
+</p>
 
-**Result:** ✅ Anthurium Jenmanii — **100% Confidence**
+**Result:** ✅ Autumn crocus — **100% Confidence**
+
+---
+
+### Test 2 - 
+<p align="center">
+  <img src="Screenshots/testing/Test - 2 bittersweet.png" width="700">
+</p>
+<p align="center">
+  <img src="Screenshots/testing/Test - 2 bittersweet1.png" width="700">
+</p>
+
+**Result:** ✅ Bittersweet nightshade — **100% Confidence**
+
+---
+
+### Test 3 - 
+<p align="center">
+  <img src="Screenshots/testing/Test - 3 Flame lily1.png" width="700">
+</p>
+<p align="center">
+  <img src="Screenshots/testing/Test - 3 Flame lily2.png" width="700">
+</p>
+
+**Result:** ✅ Flame lily — **100% Confidence**
+
+---
+
+### Test 4 - 
+<p align="center">
+  <img src="Screenshots/testing/Test - 4 jack-in the pulpit.png" width="700">
+</p>
+
+**Result:** ✅ Jack-in-the-pulpit — **100% Confidence**
+
+---
+
+### Test 5 - 
+<p align="center">
+  <img src="Screenshots/testing/Test - 5 yellow.png" width="700">
+</p>
+<p align="center">
+  <img src="Screenshots/testing/Test - 5 yellow1.png" width="700">
+</p>
+
+**Result:** ✅ Yellow oleander — **97% Confidence**
+
+---
+
+### Test 6 - 
+<p align="center">
+  <img src="Screenshots/testing/Test - 6 lantana.png" width="700">
+</p>
+
+**Result:** ✅ Lantana — **100% Confidence**
+
+---
+
+### Test 7 - 
+<p align="center">
+  <img src="Screenshots/testing/Test - 7 Larkspur.png" width="700">
+</p>
+<p align="center">
+  <img src="Screenshots/testing/Test - 7 Larkspur1.png" width="700">
+</p>
+
+**Result:** ✅ Larkspur — **100% Confidence**
+
+---
+
+### Test 8 - 
+<p align="center">
+  <img src="Screenshots/testing/Test - 8 mountain laurel.png" width="700">
+</p>
+
+**Result:** ✅ Mountain laurel — **100% Confidence**
+
+---
+
+### Test 9 - 
+<p align="center">
+  <img src="Screenshots/testing/Test - 9 poison ivy.png" width="700">
+</p>
+<p align="center">
+  <img src="Screenshots/testing/Test - 9 poison ivy1.png" width="700">
+</p>
+
+**Result:** ✅ Poison ivy — **100% Confidence**
+
+---
+
+### Test 10 - 
+<p align="center">
+  <img src="Screenshots/testing/Test - 10 suicide1.png" width="700">
+</p>
+<p align="center">
+  <img src="Screenshots/testing/Test - 10 suicide2.png" width="700">
+</p>
+
+**Result:** ✅ Suicide tree — **99% Confidence**
 
 ### F. Reflection Questions
+
+
