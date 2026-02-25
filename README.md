@@ -305,6 +305,9 @@ Learning Rate (0.001): A standard learning rate that allows gradual and stable w
 </p>
 
 ### Overall Model Accuracy
+<p align="center">
+  <img src="Screenshots/evaluation/Overall Model Accuracy.png" width="700">
+</p>
 
 ### Accuracy Summary Table
 
@@ -331,12 +334,11 @@ Learning Rate (0.001): A standard learning rate that allows gradual and stable w
 | Poison ivy | 1.00 | 66 |
 | Larkspur | 1.00 | 50 |
 
-### Overall Model Accuracy
-<p align="center">
-  <img src="Screenshots/evaluation/Accuracy per class.png" width="700">
-</p>
-
+---
 
 ### E. Model Testing
+Below are 10 testing screenshots from the Teachable Machine Preview section, each showing the input image, predicted plant class, and confidence score.
+
+### Test 1 - 
 
 ### F. Reflection Questions
