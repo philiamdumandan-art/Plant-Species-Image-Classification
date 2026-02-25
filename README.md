@@ -286,6 +286,12 @@ Training Settings Screenshot:
   <img src="Screenshots/training/training settings screenshot.png" width="700">
 </p>
 
+Why these values were chosen:
+
+Epochs (100): Enough iterations to allow the model to learn patterns across all 20 classes without underfitting.
+Batch Size (16): A moderate batch size that balances training speed and model stability.
+Learning Rate (0.001): A standard learning rate that allows gradual and stable weight updates during training.
+
 ## D. Model Evaluation
 
 ### Confusion Matrix
@@ -304,7 +310,28 @@ Training Settings Screenshot:
 
 | Class | Accuracy | #Samples |
 |---|---|---|
-|
+| Strychnine tree | 0.97 | 38 |
+| Castor bean | 0.98 | 46 |
+| Mountain laurel | 1.00 | 65 |
+| Jimson weed | 1.00 | 48 |
+| Monkshood | 1.00 | 64
+| Autumn crocus | 1.00 | 203 |
+| Angel’s trumpet | 0.98 | 50 |
+| Foxglove | 0.98 | 111 |
+| Lantana | 1.00 | 75 |
+| Rosary pea | 1.00 | 40 |
+| Flame lily | 1.00 | 126 |
+| Jack-in-the-pulpit | 1.00 | 85|
+| Henbane | 1.00 | 131 |
+| Christmas rose | 1.00 | 75 |
+| Bittersweet nightshade | 1.00 | 132 |
+| Suicide tree | 1.00 | 49 |
+| Sodom apple | 0.97 | 40 |
+| Yellow oleander | 1.00 | 43 |
+| Poison ivy | 1.00 | 66 |
+| Larkspur | 1.00 | 50 |
+
+### Overall Model Accuracy
 
 
 ### E. Model Testing
