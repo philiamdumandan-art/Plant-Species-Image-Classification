@@ -283,7 +283,7 @@ The model was trained using Google Teachable Machine with the following configur
 ---
 Training Settings Screenshot:
 <p align="center">
-  <img src="Screenshots/evaluation/Accuracy per class.png" width="700">
+  <img src="Screenshots/evaluation/training settings screenshot.png" width="700">
 </p>
 
 ## D. Model Evaluation
