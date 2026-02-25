@@ -376,6 +376,9 @@ Below are 10 testing screenshots from the Teachable Machine Preview section, eac
 <p align="center">
   <img src="Screenshots/testing/Test - 4 jack-in the pulpit.png" width="700">
 </p>
+<p align="center">
+  <img src="Screenshots/testing/Test - 4 jack-in the pulpit1.png" width="700">
+</p>
 
 **Result:** ✅ Jack-in-the-pulpit — **100% Confidence**
 
