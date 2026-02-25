@@ -341,4 +341,6 @@ Below are 10 testing screenshots from the Teachable Machine Preview section, eac
 
 ### Test 1 - 
 
+**Result:** ✅ Anthurium Jenmanii — **100% Confidence**
+
 ### F. Reflection Questions
